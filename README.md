@@ -60,7 +60,7 @@ public class Student {
     }
 
     public void printNote(){
-        System.out.println("================");
+        System.out.println("===============");
         System.out.println("Öğrenci : " + this.name);
         System.out.println("Matematik Notu : " + this.mat.note);
         System.out.println("Fizik Notu : " + this.fizik.note);
