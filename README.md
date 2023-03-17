@@ -1,4 +1,4 @@
-# B-LG-
+# BİLGİ
 public class Student {
     String name,stuNo;
     int classes;
