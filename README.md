@@ -19,8 +19,7 @@ public class Student {
         this.isPass = false;
     }
 
-
-    public void addBulkExamNote(int mat, int fizik, int kimya) {
+   public void addBulkExamNote(int mat, int fizik, int kimya) {
 
         if (mat >= 0 && mat <= 100) {
             this.mat.note = mat;
